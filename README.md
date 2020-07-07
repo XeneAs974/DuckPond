@@ -25,4 +25,4 @@ When a duck is born (first a duckling), it will move in the pond; when it encoun
 
 ## Execution
 
-Juste select this file (Duckoon) when you're start eclipse (or other IDE) then run the main file and enjoy.
+Juste select this file "Duckoon" when you're start eclipse (or other IDE) then run the main file and enjoy.
