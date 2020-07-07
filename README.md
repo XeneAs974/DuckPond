@@ -1,6 +1,5 @@
 # Duck Pond Model
 
-This code uses Java .
 
 ### Code Requirements
 
