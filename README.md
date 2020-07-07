@@ -23,6 +23,15 @@ When a duck is born (first a duckling), it will move in the pond; when it encoun
 <img src="duck.gif">
 
 
+## Project progress
+
+Currently the function of the duck is limited only to move randomly.
+
+A basic decor has been set up water, rock and nenuphare.
+
+The ducklings are also part of the hand currently have no function to move.
+
+
 ## Execution
 
 Juste select this file "Duckoon" when you're start eclipse (or other IDE) then run the main file and enjoy.
