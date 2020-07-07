@@ -34,4 +34,4 @@ The ducklings are also part of the hand currently have no function to move.
 
 ## Execution
 
-Juste select this file "Duckoon" when you're start eclipse (or other IDE) then run the main file and enjoy.
+Just select this file "Duckoon" when you're start eclipse (or other IDE) then run the main file and enjoy.
