@@ -20,6 +20,9 @@ The representation in java of duck pond model must contain several elements :
 When a duck is born (first a duckling), it will move in the pond; when it encounters water lilies, it will eat it, when it eats, the duck will grow out. If the duck does not eat (defined) after a certain period of time, it will lose weight, and if it continues to lose weight, it will eventually die. On the contrary, a duck that eats a lot will become bigger, bigger and bigger, and eventually become a head duck. In this case, the duck will change color. A big duck is the only little whistling duck, and the other duck is lined up behind him.
 
 
+<img src="Automated-Selenium.gif">
+
+
 ## Execution
 
-Juste select this file when you're start eclipse (or other IDE) then run the main file and enjoy.
+Juste select this file (Duckoon) when you're start eclipse (or other IDE) then run the main file and enjoy.
